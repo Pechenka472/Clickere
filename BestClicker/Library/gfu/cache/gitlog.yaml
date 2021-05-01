@@ -1,0 +1,673 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-01T14:21:51.931+05:00
+  initializedAtString: 2021-05-01T13:02:36.089+05:00
+  log:
+  - commitID: 0cb87fc6257a9e4f68a15069c0073e449b9938a1
+    mergeA: 
+    mergeB: 
+    authorName: ooonush
+    authorEmail: ooonush@gmail.com
+    commitEmail: ooonush@gmail.com
+    commitName: ooonush
+    summary: "\u042F \u043D\u0435 \u0437\u043D\u0430\u044E \u043A\u0430\u043A \u043D\u0430\u0437\u0432\u0430\u0442\u044C"
+    description: "\u0417\u0430\u043B\u0438\u043B \u043F\u0440\u043E\u0435\u043A\u0442
+      \u0432 \u0433\u0438\u0442\u0445\u0430\u0431"
+    timeString: 2021-04-28T21:51:10.000+05:00
+    commitTimeString: 2021-04-28T21:51:10.000+05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BestClicker\.vsconfig
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Editor.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Editor.meta
+      projectPath: Assets\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Editor\com.unity.mobile.notifications.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Editor\com.unity.mobile.notifications.meta
+      projectPath: Assets\Editor\com.unity.mobile.notifications.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      projectPath: Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      projectPath: Assets\Editor\com.unity.mobile.notifications\NotificationSettings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\Andrey.unity
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\Andrey.unity
+      projectPath: Assets\Scenes\Andrey.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\Andrey.unity.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\Andrey.unity.meta
+      projectPath: Assets\Scenes\Andrey.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\Slava.unity
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\Slava.unity
+      projectPath: Assets\Scenes\Slava.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scenes\Slava.unity.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scenes\Slava.unity.meta
+      projectPath: Assets\Scenes\Slava.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Andrey.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Andrey.meta
+      projectPath: Assets\Scripts\Andrey.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Anush.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Anush.meta
+      projectPath: Assets\Scripts\Anush.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Danil.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Danil.meta
+      projectPath: Assets\Scripts\Danil.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Gadget1.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Gadget1.cs
+      projectPath: Assets\Scripts\Gadget1.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Gadget1.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Gadget1.cs.meta
+      projectPath: Assets\Scripts\Gadget1.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Gadgets.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Gadgets.cs
+      projectPath: Assets\Scripts\Gadgets.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\Gadgets.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\Gadgets.cs.meta
+      projectPath: Assets\Scripts\Gadgets.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\GameManager.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\GameManager.cs
+      projectPath: Assets\Scripts\GameManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\GameManager.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\GameManager.cs.meta
+      projectPath: Assets\Scripts\GameManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\MonoSingleton.cs
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\MonoSingleton.cs
+      projectPath: Assets\Scripts\MonoSingleton.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Assets\Scripts\MonoSingleton.cs.meta
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Assets\Scripts\MonoSingleton.cs.meta
+      projectPath: Assets\Scripts\MonoSingleton.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Packages\manifest.json
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\Packages\packages-lock.json
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\NotificationsSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\NotificationsSettings.asset
+      projectPath: ProjectSettings\NotificationsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\UserSettings\AndroidLogcatSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\UserSettings\AndroidLogcatSettings.asset
+      projectPath: UserSettings\AndroidLogcatSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BestClicker\UserSettings\Search.settings
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\BestClicker\UserSettings\Search.settings
+      projectPath: UserSettings\Search.settings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 01dd61241d689ecf7e1959d672d01ceb71a9c686
+    mergeA: 
+    mergeB: 
+    authorName: ooonush
+    authorEmail: 72870405+ooonush@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-04-28T21:05:53.000+05:00
+    commitTimeString: 2021-04-28T21:05:53.000+05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\ooonu\Documents\GitHub\Clickere\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
