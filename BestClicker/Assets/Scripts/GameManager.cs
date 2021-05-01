@@ -7,8 +7,6 @@ public class GameManager : MonoSingleton<GameManager>
 {
     public Gadgets[] Gadgets;
 
-
-
     public int Points;
     public int PointsOnClick
     {
@@ -39,7 +37,7 @@ public class GameManager : MonoSingleton<GameManager>
 
     }
 
-    public void Click()
+    public void AddPointsOnClick()
     {
         Points += PointsOnClick;
         if (Points >= MaxPoints)
